@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
@@ -75,6 +74,3 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-=======
-# Portifolio
->>>>>>> da88c2659ef3da0b1d1c05e9c49be4ec4bfe1e0b
